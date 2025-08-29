@@ -25,6 +25,8 @@ public class LocationWishes {
                 		}
         	}
         }
-	}
+	                                                              111111111111111111111111111111111                                                                                                                                 
 
 }
+//positive or -ve or 0
+//talktym lessthan 100minutes basic plan talktime>100 and
