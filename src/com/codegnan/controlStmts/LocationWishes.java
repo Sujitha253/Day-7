@@ -25,7 +25,7 @@ public class LocationWishes {
                 		}
         	}
         }
-	                                                              111111111111111111111111111111111                                                                                                                                 
+	                                                                                                                                                                                           
 
 }
 //positive or -ve or 0
